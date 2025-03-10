@@ -13,7 +13,7 @@ A simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.
 - ⚡ **Lightweight and fast**
 
 ## 📷 Screenshot
-![Game Screenshot](image.png)
+![Game Screenshot](https://github.com/user-attachments/assets/b43cd9c8-aace-4f3f-88b8-0497a48abcd6)
 
 ## 🚀 How to Play
 1. Click on **Rock, Paper, or Scissors** to make your choice.
