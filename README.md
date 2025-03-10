@@ -14,7 +14,7 @@ A simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.
 - 📊 Score Tracking to display both player and computer scores
 
 ## 📷 Screenshot
-![Game Screenshot]([https://github.com/user-attachments/assets/b43cd9c8-aace-4f3f-88b8-0497a48abcd6](https://github.com/user-attachments/assets/d9599050-917c-40d0-8aa2-b5c7ff2f64be))
+![Game Screenshot](https://github.com/user-attachments/assets/d9599050-917c-40d0-8aa2-b5c7ff2f64be)
 
 ## 🚀 How to Play
 1. Click on **Rock, Paper, or Scissors** to make your choice.
