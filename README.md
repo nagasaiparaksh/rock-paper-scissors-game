@@ -11,6 +11,7 @@ A simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.
 - 🤖 **Random computer choice** for fair gameplay
 - 🎭 **Color-coded results** for better user experience
 - ⚡ **Lightweight and fast**
+- 📊 Score Tracking to display both player and computer scores
 
 ## 📷 Screenshot
 ![Game Screenshot](https://github.com/user-attachments/assets/b43cd9c8-aace-4f3f-88b8-0497a48abcd6)
